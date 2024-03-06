@@ -16,10 +16,10 @@ PPT: [Lecture 1](./ppt/第一节课介绍.pptx)
 
 基本网络结构，全链接和卷积网络，残差网络，损失函数，优化方法
 
-PPT: [Lecture 1](./ppt/第二节-深度学习的基本知识.pptx)
+PPT: [Lecture 2](./ppt/第二节-深度学习的基本知识.pptx)
 
 ### Lecture 3：泛化与频率原则
 
 泛化及重要现象，傅里叶分析，频率原则实验、理解、多尺度神经网络、一维理论
 
-PPT: [Lecture 1](./ppt/第三节-泛化与频率原则.pptx)
+PPT: [Lecture 3](./ppt/第三节-泛化与频率原则.pptx)
