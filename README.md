@@ -20,6 +20,28 @@ PPT: [Lecture 2](./ppt/第二节-深度学习的基本知识.pptx)
 
 ### Lecture 3：泛化与频率原则
 
-泛化及重要现象，傅里叶分析，频率原则实验、理解、多尺度神经网络、一维理论
+泛化及重要现象，傅里叶分析，频率原则实验、理解
 
 PPT: [Lecture 3](./ppt/第三节-泛化与频率原则.pptx)
+
+
+### Lecture 4：泛化与频率原则
+
+频率原则：多尺度神经网络、一维理论
+上机：编程复现频率原则
+
+PPT: 见PPT目录
+
+
+### Lecture 5：Transformer结构介绍
+
+Transformer, ViT
+
+PPT: 见PPT目录
+
+
+### Lecture 6：Transformer结构介绍及机理
+
+复习Transformer构架，介绍Anchor function
+
+PPT: 见PPT目录
